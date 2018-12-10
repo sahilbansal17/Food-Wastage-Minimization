@@ -1,5 +1,7 @@
 # Minimizing Food wastage in Mess using Machine Learning
 
+Presentation can be viewed [here](https://docs.google.com/presentation/d/1xgOYfa3wbRrYC7slaoffdjsCgCJoCLnpsSoOkBXVNgA/edit?usp=sharing).
+
 The project is divided into several parts.
 
 ## An android application:
